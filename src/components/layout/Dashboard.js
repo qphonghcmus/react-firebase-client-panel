@@ -1,5 +1,5 @@
 import React from "react";
-import Clients from "../clients/Client";
+import Clients from "../clients/Clients";
 import Sidebar from "../layout/Sidebar";
 
 export default function Dashboard() {
